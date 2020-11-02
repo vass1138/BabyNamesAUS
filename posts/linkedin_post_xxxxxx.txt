@@ -1,0 +1,13 @@
+Latest data analysis self-challenge.  Are certain baby names more popular after an #AFL premiership win?  Given the uncanny ability and popularity of players such as Dustin Martin, I thought there might be a strong possibility to see an observable effect.
+
+The most popular baby names are published yearly by Births, Deaths, Marriages Victoria.   Grand final winners and team players are identified from AFLtables.
+
+After a couple of hundred lines of #R code involving dplyr and ggplot magic, the top five player names for the last nine birth years are shown.  The team shown per facet is the previous year's premiership winner. The popularity gain is determined with respect to the names' occurence in the previous year.  
+
+Lewis and Jude in 2013, and Elliot in 2019, showed the biggest gains because their names were not listed in their respective previous years.  Interestingly, it is not uncommon for names to become LESS popular after a premiership, even for those teams based in Victoria.  Another observation is that Hawthorn showed a trend to more consistent positive gains after three consecutive premierships.
+
+The next couple of years could be interesting.  With Richmond's wins in 2019 and 2020, there is still a distinct possibility we could see "The Dusty Effect" come to fruition.
+
+Disclaimer:  Correlation does not imply causality, but I did employ a heck of a lot of data mangling.
+
+#dataanalytics #sportsanalytics

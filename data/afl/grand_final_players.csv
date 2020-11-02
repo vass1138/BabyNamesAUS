@@ -1,0 +1,265 @@
+Year,First.name,Surname,Playing.for
+2020,David,Astbury,Richmond
+2020,Liam,Baker,Richmond
+2020,Shai,Bolton,Richmond
+2020,Nathan,Broad,Richmond
+2020,Josh,Caddy,Richmond
+2020,Jason,Castagna,Richmond
+2020,Trent,Cotchin,Richmond
+2020,Shane,Edwards,Richmond
+2020,Brandon,Ellis,Richmond
+2020,Dylan,Grimes,Richmond
+2020,Bachar,Houli,Richmond
+2020,Kane,Lambert,Richmond
+2020,Tom,Lynch,Richmond
+2020,Dustin,Martin,Richmond
+2020,Toby,Nankervis,Richmond
+2020,Marlion,Pickett,Richmond
+2020,Dion,Prestia,Richmond
+2020,Jack,Riewoldt,Richmond
+2020,Daniel,Rioli,Richmond
+2020,Jayden,Short,Richmond
+2020,Ivan,Soldo,Richmond
+2020,Nick,Vlastuin,Richmond
+2019,Tom,Barrass,West Coast
+2019,Tom,Cole,West Coast
+2019,Jamie,Cripps,West Coast
+2019,Jack,Darling,West Coast
+2019,Liam,Duggan,West Coast
+2019,Shannon,Hurn,West Coast
+2019,Mark,Hutchings,West Coast
+2019,Lewis,Jetta,West Coast
+2019,Josh,Kennedy,West Coast
+2019,Mark,LeCras,West Coast
+2019,Scott,Lycett,West Coast
+2019,Chris,Masten,West Coast
+2019,Jeremy,McGovern,West Coast
+2019,Jack,Redden,West Coast
+2019,Willie,Rioli,West Coast
+2019,Liam,Ryan,West Coast
+2019,Will,Schofield,West Coast
+2019,Dom,Sheed,West Coast
+2019,Luke,Shuey,West Coast
+2019,Nathan,Vardy,West Coast
+2019,Daniel,Venables,West Coast
+2019,Elliot,Yeo,West Coast
+2018,David,Astbury,Richmond
+2018,Nathan,Broad,Richmond
+2018,Dan,Butler,Richmond
+2018,Josh,Caddy,Richmond
+2018,Jason,Castagna,Richmond
+2018,Trent,Cotchin,Richmond
+2018,Shane,Edwards,Richmond
+2018,Brandon,Ellis,Richmond
+2018,Jack,Graham,Richmond
+2018,Shaun,Grigg,Richmond
+2018,Dylan,Grimes,Richmond
+2018,Bachar,Houli,Richmond
+2018,Kane,Lambert,Richmond
+2018,Dustin,Martin,Richmond
+2018,Kamdyn,McIntosh,Richmond
+2018,Toby,Nankervis,Richmond
+2018,Dion,Prestia,Richmond
+2018,Alex,Rance,Richmond
+2018,Jack,Riewoldt,Richmond
+2018,Daniel,Rioli,Richmond
+2018,Jacob,Townsend,Richmond
+2018,Nick,Vlastuin,Richmond
+2017,Shane,Biggs,Western Bulldogs
+2017,Marcus,Bontempelli,Western Bulldogs
+2017,Matthew,Boyd,Western Bulldogs
+2017,Tom,Boyd,Western Bulldogs
+2017,Zaine,Cordy,Western Bulldogs
+2017,Luke,Dahlhaus,Western Bulldogs
+2017,Caleb,Daniel,Western Bulldogs
+2017,Tory,Dickson,Western Bulldogs
+2017,Josh,Dunkley,Western Bulldogs
+2017,Joel,Hamling,Western Bulldogs
+2017,Lachie,Hunter,Western Bulldogs
+2017,Jason,Johannisen,Western Bulldogs
+2017,Tom,Liberatore,Western Bulldogs
+2017,Jack,Macrae,Western Bulldogs
+2017,Toby,McLean,Western Bulldogs
+2017,Dale,Morris,Western Bulldogs
+2017,Liam,Picken,Western Bulldogs
+2017,Fletcher,Roberts,Western Bulldogs
+2017,Jordan,Roughead,Western Bulldogs
+2017,Clay,Smith,Western Bulldogs
+2017,Jake,Stringer,Western Bulldogs
+2017,Easton,Wood,Western Bulldogs
+2016,Grant,Birchall,Hawthorn
+2016,Luke,Breust,Hawthorn
+2016,Shaun,Burgoyne,Hawthorn
+2016,Taylor,Duryea,Hawthorn
+2016,James,Frawley,Hawthorn
+2016,Josh,Gibson,Hawthorn
+2016,Jack,Gunston,Hawthorn
+2016,David,Hale,Hawthorn
+2016,Bradley,Hill,Hawthorn
+2016,Luke,Hodge,Hawthorn
+2016,Brian,Lake,Hawthorn
+2016,Jordan,Lewis,Hawthorn
+2016,Ben,McEvoy,Hawthorn
+2016,Sam,Mitchell,Hawthorn
+2016,Paul,Puopolo,Hawthorn
+2016,Cyril,Rioli,Hawthorn
+2016,Jarryd,Roughead,Hawthorn
+2016,Ryan,Schoenmakers,Hawthorn
+2016,Liam,Shiels,Hawthorn
+2016,Isaac,Smith,Hawthorn
+2016,Ben,Stratton,Hawthorn
+2016,Matt,Suckling,Hawthorn
+2015,Grant,Birchall,Hawthorn
+2015,Luke,Breust,Hawthorn
+2015,Shaun,Burgoyne,Hawthorn
+2015,Taylor,Duryea,Hawthorn
+2015,Josh,Gibson,Hawthorn
+2015,Jack,Gunston,Hawthorn
+2015,David,Hale,Hawthorn
+2015,Bradley,Hill,Hawthorn
+2015,Luke,Hodge,Hawthorn
+2015,Brian,Lake,Hawthorn
+2015,Will,Langford,Hawthorn
+2015,Jordan,Lewis,Hawthorn
+2015,Ben,McEvoy,Hawthorn
+2015,Sam,Mitchell,Hawthorn
+2015,Paul,Puopolo,Hawthorn
+2015,Cyril,Rioli,Hawthorn
+2015,Jarryd,Roughead,Hawthorn
+2015,Liam,Shiels,Hawthorn
+2015,Isaac,Smith,Hawthorn
+2015,Matthew,Spangher,Hawthorn
+2015,Ben,Stratton,Hawthorn
+2015,Matt,Suckling,Hawthorn
+2014,Max,Bailey,Hawthorn
+2014,Grant,Birchall,Hawthorn
+2014,Luke,Breust,Hawthorn
+2014,Shaun,Burgoyne,Hawthorn
+2014,Lance,Franklin,Hawthorn
+2014,Josh,Gibson,Hawthorn
+2014,Brent,Guerra,Hawthorn
+2014,Jack,Gunston,Hawthorn
+2014,David,Hale,Hawthorn
+2014,Bradley,Hill,Hawthorn
+2014,Luke,Hodge,Hawthorn
+2014,Brian,Lake,Hawthorn
+2014,Jordan,Lewis,Hawthorn
+2014,Sam,Mitchell,Hawthorn
+2014,Paul,Puopolo,Hawthorn
+2014,Cyril,Rioli,Hawthorn
+2014,Jarryd,Roughead,Hawthorn
+2014,Brad,Sewell,Hawthorn
+2014,Liam,Shiels,Hawthorn
+2014,Jonathan,Simpkin,Hawthorn
+2014,Isaac,Smith,Hawthorn
+2014,Ben,Stratton,Hawthorn
+2013,Craig,Bird,Sydney
+2013,Jude,Bolton,Sydney
+2013,Adam,Goodes,Sydney
+2013,Heath,Grundy,Sydney
+2013,Dan,Hannebery,Sydney
+2013,Kieren,Jack,Sydney
+2013,Lewis,Jetta,Sydney
+2013,Alex,Johnson,Sydney
+2013,Josh,Kennedy,Sydney
+2013,Nick,Malceski,Sydney
+2013,Martin,Mattner,Sydney
+2013,Jarrad,McVeigh,Sydney
+2013,Mitch,Morton,Sydney
+2013,Shane,Mumford,Sydney
+2013,Ryan,OKeefe,Sydney
+2013,Luke,Parker,Sydney
+2013,Mike,Pyke,Sydney
+2013,Sam,Reid,Sydney
+2013,Ted,Richards,Sydney
+2013,Lewis,Roberts-Thomson,Sydney
+2013,Rhyce,Shaw,Sydney
+2013,Nick,Smith,Sydney
+2012,Jimmy,Bartel,Geelong
+2012,Paul,Chapman,Geelong
+2012,Allen,Christensen,Geelong
+2012,Joel,Corey,Geelong
+2012,Mitch,Duncan,Geelong
+2012,Corey,Enright,Geelong
+2012,Tom,Hawkins,Geelong
+2012,Josh,Hunt,Geelong
+2012,Steve,Johnson,Geelong
+2012,James,Kelly,Geelong
+2012,Cameron,Ling,Geelong
+2012,Tom,Lonergan,Geelong
+2012,Andrew,Mackie,Geelong
+2012,Brad,Ottens,Geelong
+2012,James,Podsiadly,Geelong
+2012,Matthew,Scarlett,Geelong
+2012,Joel,Selwood,Geelong
+2012,Mathew,Stokes,Geelong
+2012,Harry,Taylor,Geelong
+2012,Travis,Varcoe,Geelong
+2012,Trent,West,Geelong
+2012,David,Wojcinski,Geelong
+2011,Luke,Ball,Collingwood
+2011,Dayne,Beams,Collingwood
+2011,Jarryd,Blair,Collingwood
+2011,Leigh,Brown,Collingwood
+2011,Nathan,Brown,Collingwood
+2011,Travis,Cloke,Collingwood
+2011,Chris,Dawes,Collingwood
+2011,Alan,Didak,Collingwood
+2011,Tyson,Goldsack,Collingwood
+2011,Ben,Johnson,Collingwood
+2011,Darren,Jolly,Collingwood
+2011,Heritier,Lumumba,Collingwood
+2011,Brent,Macaffer,Collingwood
+2011,Nick,Maxwell,Collingwood
+2011,Scott,Pendlebury,Collingwood
+2011,Ben,Reid,Collingwood
+2011,Heath,Shaw,Collingwood
+2011,Steele,Sidebottom,Collingwood
+2011,Dane,Swan,Collingwood
+2011,Dale,Thomas,Collingwood
+2011,Alan,Toovey,Collingwood
+2011,Sharrod,Wellingham,Collingwood
+2010,Gary,Ablett,Geelong
+2010,Jimmy,Bartel,Geelong
+2010,Mark,Blake,Geelong
+2010,Shannon,Byrnes,Geelong
+2010,Paul,Chapman,Geelong
+2010,Joel,Corey,Geelong
+2010,Corey,Enright,Geelong
+2010,Tom,Harley,Geelong
+2010,Tom,Hawkins,Geelong
+2010,Steve,Johnson,Geelong
+2010,James,Kelly,Geelong
+2010,Cameron,Ling,Geelong
+2010,Andrew,Mackie,Geelong
+2010,Darren,Milburn,Geelong
+2010,Cameron,Mooney,Geelong
+2010,Brad,Ottens,Geelong
+2010,Max,Rooke,Geelong
+2010,Matthew,Scarlett,Geelong
+2010,Joel,Selwood,Geelong
+2010,Harry,Taylor,Geelong
+2010,Travis,Varcoe,Geelong
+2010,David,Wojcinski,Geelong
+2009,Chance,Bateman,Hawthorn
+2009,Grant,Birchall,Hawthorn
+2009,Campbell,Brown,Hawthorn
+2009,Robert,Campbell,Hawthorn
+2009,Shane,Crawford,Hawthorn
+2009,Trent,Croad,Hawthorn
+2009,Stuart,Dew,Hawthorn
+2009,Xavier,Ellis,Hawthorn
+2009,Lance,Franklin,Hawthorn
+2009,Stephen,Gilham,Hawthorn
+2009,Brent,Guerra,Hawthorn
+2009,Luke,Hodge,Hawthorn
+2009,Rick,Ladson,Hawthorn
+2009,Jordan,Lewis,Hawthorn
+2009,Sam,Mitchell,Hawthorn
+2009,Michael,Osborne,Hawthorn
+2009,Brent,Renouf,Hawthorn
+2009,Cyril,Rioli,Hawthorn
+2009,Jarryd,Roughead,Hawthorn
+2009,Brad,Sewell,Hawthorn
+2009,Mark,Williams,Hawthorn
+2009,Clinton,Young,Hawthorn
